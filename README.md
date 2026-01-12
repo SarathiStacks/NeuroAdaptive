@@ -52,6 +52,13 @@ The platform adapts learning content in real-time using **Machine Learning**, **
 
 ---
 
+## Requirements
+Please infer to the requirements.txt file and use the command below to install the requirements in your virtual environment 
+```bash
+pip install -r requirements.txt
+```
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -86,7 +93,9 @@ NeuroAdaptive/
 │       ├── components/
 │       ├── App.jsx
 │
+└── requirements.txt
 └── README.md
+
 
 ```
 
