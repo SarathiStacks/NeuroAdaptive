@@ -1,0 +1,22 @@
+{
+  "name": "neuroadaptive-backend",
+  "version": "1.0.0",
+  "description": "Backend for NeuroAdaptive (Imagine Cup MVP)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Srisha",
+  "license": "ISC",
+  "dependencies": {
+    "@azure-rest/ai-vision-image-analysis": "^1.0.0-beta.3",
+    "@azure/ai-language-text": "^1.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.47.0",
+    "openai": "^6.15.0"
+  }
+}

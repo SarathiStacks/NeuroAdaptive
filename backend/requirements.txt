@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+azure-cognitiveservices-speech
+python-dotenv
+openai
+opencv-python
+tensorflow
+scikit-learn
+pickle-mixin
